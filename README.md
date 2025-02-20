@@ -1,6 +1,5 @@
 # Dark jokes
 ```
-python
 print("https://www.reddit.com/r/AskReddit/comments/1pgmuo/what_is_the_best_dark_humor_joke_that_you_know/" fucking go to this )
 ```
 >  https://youtube.com/shorts/5QLmbv9f1pE?si=fBhQqOQ51ZmyD5Q6.
